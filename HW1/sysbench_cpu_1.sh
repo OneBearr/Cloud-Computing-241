@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "sysbench CPU experiment 1: with 20000 prime numbers"
+echo "sysbench CPU experiment 1: with 10000 prime numbers"
 for((i = 0; i < 5; i++))
 do
         echo "Test: "$i
